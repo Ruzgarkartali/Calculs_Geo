@@ -1,4 +1,4 @@
-package BE.AC.UMONS;
+package src.main.java.BE.AC.UMONS;
 
 public class Perimetre {
     public static int perim(int a, int b) {

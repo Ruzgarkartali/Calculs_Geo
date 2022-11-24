@@ -1,10 +1,9 @@
-package BE.AC.UMONS;
+package src.test.java.BE.AC.UMONS;
 
 import org.junit.Test;
+import src.main.java.BE.AC.UMONS.Perimetre;
 
 import static org.junit.Assert.*;
-import static org.testng.Assert.assertNotEquals;
-import static org.testng.AssertJUnit.assertEquals;
 
 public class PerimetreTest {
 

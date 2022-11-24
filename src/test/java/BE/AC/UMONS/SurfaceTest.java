@@ -1,6 +1,7 @@
-package BE.AC.UMONS;
+package src.test.java.BE.AC.UMONS;
 
 import org.junit.Test;
+import src.main.java.BE.AC.UMONS.Surface;
 
 import static org.junit.Assert.*;
 

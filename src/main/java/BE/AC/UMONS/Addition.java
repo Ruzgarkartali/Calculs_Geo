@@ -1,5 +1,5 @@
 
-package BE.AC.UMONS;
+package src.main.java.BE.AC.UMONS;
 
 public class Addition {
 

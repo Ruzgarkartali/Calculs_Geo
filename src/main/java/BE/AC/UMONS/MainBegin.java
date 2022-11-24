@@ -1,4 +1,5 @@
-package BE.AC.UMONS;
+package src.main.java.BE.AC.UMONS;
+
 
 public class MainBegin {
     public static void main(String args[]) {

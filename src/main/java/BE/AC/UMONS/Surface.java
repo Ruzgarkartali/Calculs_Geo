@@ -1,4 +1,4 @@
-package BE.AC.UMONS;
+package src.main.java.BE.AC.UMONS;
 
 public class Surface {
     public static int surf(int a, int b) {
