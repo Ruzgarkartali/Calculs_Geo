@@ -3,6 +3,8 @@ package BE.AC.UMONS;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+import static org.testng.Assert.assertNotEquals;
+import static org.testng.AssertJUnit.assertEquals;
 
 public class PerimetreTest {
 
