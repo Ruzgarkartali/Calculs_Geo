@@ -1,6 +1,7 @@
 package src.test.java.BE.AC.UMONS;
 
-import org.testng.annotations.Test;
+
+import org.junit.Test;
 import src.main.java.BE.AC.UMONS.Addition;
 
 import static org.junit.Assert.*;
